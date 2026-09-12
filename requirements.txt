@@ -1,0 +1,9 @@
+langgraph>=0.2
+langchain-core>=0.3
+python-dotenv>=1.0
+
+# Install only the provider you plan to use for a real model (optional —
+# the prototype runs out of the box with the bundled offline DemoLLM):
+# langchain-anthropic>=0.2
+# langchain-openai>=0.2
+# langchain-ollama>=0.2
